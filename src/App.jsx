@@ -1,6 +1,7 @@
 import './App.css'
 import Header from "./components/Header";
 import Hero from './components/Hero';
+import Discover from './components/discover/Discover';
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
    <div className=''>
     <Header/>
     <Hero/>
+    <Discover/>
    </div>
   )
 }
