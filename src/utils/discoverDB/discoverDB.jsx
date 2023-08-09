@@ -71,12 +71,4 @@ export const discoverDB = [
     tags: ["after effects", "vj loops", "luts"],
     color: "bg-[#e2442f]",
   },
-  {
-    id: 9,
-    title: "Fitness & Health",
-    desc: "Whether you’re looking to shed or shred, here are coaches to pump you up.",
-    icon: "https://ucarecdn.com/36547f7d-e53b-4739-b1f4-3e11a4da110c/fitness.svg",
-    tags: ["fitness", "workout program", "yoga"],
-    color: "bg-[#ffc900]",
-  },
 ];
