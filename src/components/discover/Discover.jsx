@@ -1,5 +1,5 @@
 import React from "react";
-import { discoverDB } from "../../utils/discoverDB/discoverDB";
+import { discoverDB } from "./../../utils/discoverDB/discoverDB";
 import DiscoverItem from "./DiscoverItem";
 
 function Discover() {
